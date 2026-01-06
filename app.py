@@ -3,6 +3,7 @@ from routes import home_page, preview_handler, analyze_handler
 
 # Initialize the FastHTML app
 app, rt = fast_app(
+    pico=False,
     hdrs=(
         Link(rel="stylesheet", href="/static/style.css"),
         Script(src="https://unpkg.com/lucide@latest"),

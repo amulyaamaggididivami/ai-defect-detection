@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2026-01-06T15:15:13.853860",
+    "filename": "short_02.jpg",
+    "has_defect": true,
+    "confidence": 0.6687754988670349
+  },
+  {
+    "timestamp": "2026-01-06T15:16:02.015454",
+    "filename": "mouse_bite.jpg",
+    "has_defect": false,
+    "confidence": 0.0
+  },
+  {
+    "timestamp": "2026-01-07T11:10:02.481347",
+    "filename": "short_02.jpg",
+    "has_defect": true,
+    "confidence": 0.6687754988670349
+  },
+  {
+    "timestamp": "2026-01-07T11:27:46.042167",
+    "filename": "short_02.jpg",
+    "has_defect": true,
+    "confidence": 0.6687754988670349,
+    "defect_type": "short"
+  },
+  {
+    "timestamp": "2026-01-07T11:28:27.139523",
+    "filename": "missing_hole.jpg",
+    "has_defect": true,
+    "confidence": 0.7633756399154663,
+    "defect_type": "missing_hole"
+  }
+]
